@@ -33,7 +33,7 @@
 
 <!-- Include once I have committed code to GitHub (Top Languages Widget):-->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight) --> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight) -->
 
 
 <!-- <p>
