@@ -64,14 +64,15 @@
  -->
 
 
- ## 📊 My GitHub Stats 
+ ## 📊 My GitHub Stats
 <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MopholosiCodes&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MopholosiCodes&layout=compact&theme=tokyonight)
-
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Web-Dev-Dan&show_icons=true&theme=tokyonight)
+-->
+<!-- Include once I have committed code to GitHub (Top Languages Widget):-->
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight)
+-->
 
 <!-- <p>
 <a href="https://github.com/Web-Dev-Dan">
