@@ -18,14 +18,14 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23325288.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff"/>
 <img alt="React JS" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
   
-<img alt="ASP.NET WPF" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
+<!-- <img alt="ASP.NET WPF" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
 <img alt="ASP.NET WinForms" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23476dad.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img alt="Github" src="https://img.shields.io/badge/github-%23476dad.svg?style=for-the-badge&logo=github&logoColor=ffffff"/> -->
 </p>
 
 <br/>
 
-## 🛠 My Top Projects
+<!-- ## 🛠 My Top Projects -->
 <!-- <br/>
 <p>
   <a href="https://web-dev-dan.github.io/JavaScript-To-Do-List/">
@@ -64,7 +64,7 @@
  -->
 
 
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats -->
 <br />
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Web-Dev-Dan&show_icons=true&theme=tokyonight)
