@@ -4,9 +4,9 @@
 
 - 👨‍💻 Im a Business I.T student.
 - 📝 A good problem solver. 
-- 🤩 I'm passionate about designing **Software Architecture** using **UML**
-- 🤩 I'm also passionate about developing **Web Apps** and **Mobile Apps** using **HTML**, **CSS**, **Javascript** and **React JS**,  
-- 🌱 Currently learning **Express JS**, **ASP.NET Core**
+- 🤩 I designing **Software Architecture** using **UML**
+- 🤩 I develop cross platform web and moile applications using **HTML**, **CSS**, **Javascript** and **React JS**,  
+- 🌱 Currently learning API development using **Express JS**, **ASP.NET Core**
 - 👯 I’d be delighted to collabote with other software engineers
 - 🐦 You can always find me on **LinkedIN**, [@Mopholosi Monyollo](https://www.linkedin.com/in/mopholosi-monyollo-b184001b2/)
 
@@ -17,17 +17,13 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23476dad.svg?style=for-the-badge&logo=css3&logoColor=ffffff"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23325288.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff"/>
 <img alt="React JS" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-  
-<!-- <img alt="ASP.NET WPF" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
-<img alt="ASP.NET WinForms" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23476dad.svg?style=for-the-badge&logo=github&logoColor=ffffff"/> -->
 </p>
 
 <br/>
 
-<!-- ## 🛠 My Top Projects -->
-<!-- <br/>
-<p>
+## 🛠 My Projects
+<br/>
+<!-- <p>
   <a href="https://web-dev-dan.github.io/JavaScript-To-Do-List/">
     <img width="400" src="https://github.com/Web-Dev-Dan/JavaScript-To-Do-List/blob/main/To-Do-List-Screenshot.png" />
   </a>
@@ -41,9 +37,9 @@
   <a href="https://web-dev-dan.github.io/Thirdle/">
     <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=Thirdle&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=fff" />
   </a>
-</p>
+</p> -->
 
-<p>
+<!-- <p>
   <a href="https://web-dev-dan.github.io/React-E-Commerce-Site/">
     <img width="400" src="https://user-images.githubusercontent.com/80458000/186884755-2ae00c89-9076-4138-8fbd-e1da1f2a65fc.png" />
   </a>
@@ -57,11 +53,10 @@
   <a href="https://web-dev-dan.github.io/Taskr---Bug-Tracking-Application/">
     <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=Taskr---Bug-Tracking-Application&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=fff" />
   </a>
-</p>
+</p> -->
 
 
 <br />
- -->
 
 
 <!--  ## 📊 My GitHub Stats
@@ -71,7 +66,7 @@
 
 <!-- Include once I have committed code to GitHub (Top Languages Widget):-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight) --> -->
 
 
 <!-- <p>
