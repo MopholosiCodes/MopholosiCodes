@@ -1,13 +1,12 @@
-### Hi there 👋
-
-# Hi! I'm Mopholosi 😊
+# Hi! I'm Mopholosi
 
 ### 👋 About Me:
 
-- 👨‍💻 Im a final year Business I.T student.
-- 🤩 I'm passionate about **React JS** and **ASP.NET**
-- 🌱 I’m currently learning **Express JS**
-- 📝 I'm a problem solver. 
+- 👨‍💻 Im a Business I.T student.
+- 📝 A good problem solver. 
+- 🤩 I'm passionate about designing **Software Architecture** using **UML**
+- 🤩 I'm also passionate about developing **Web Apps** and **Mobile Apps** using **HTML**, **CSS**, **Javascript** and **React JS**,  
+- 🌱 Currently learning **Express JS**, **ASP.NET Core**
 - 👯 I’d be delighted to collabote with other software engineers
 - 🐦 You can always find me on **LinkedIN**, [@Mopholosi Monyollo](https://www.linkedin.com/in/mopholosi-monyollo-b184001b2/)
 
@@ -16,20 +15,18 @@
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23325288.svg?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23476dad.svg?style=for-the-badge&logo=css3&logoColor=ffffff"/>
-  
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
-<img alt="Sass" src="https://img.shields.io/badge/sass-%23476dad.svg?style=for-the-badge&logo=sass&logoColor=%23ffffff"/>
-  
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23325288.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff"/>
-<img alt="React" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23325288.svg?style=for-the-badge&logo=tailwind-css&logoColor=ffffff"/>
+<img alt="React JS" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
+  
+<img alt="ASP.NET WPF" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
+<img alt="ASP.NET WinForms" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23476dad.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </p>
 
 <br/>
 
 ## 🛠 My Top Projects
-<br/>
+<!-- <br/>
 <p>
   <a href="https://web-dev-dan.github.io/JavaScript-To-Do-List/">
     <img width="400" src="https://github.com/Web-Dev-Dan/JavaScript-To-Do-List/blob/main/To-Do-List-Screenshot.png" />
@@ -64,7 +61,7 @@
 
 
 <br />
-
+ -->
 
 
 ## 📊 My GitHub Stats
@@ -77,13 +74,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight)
 -->
 
-<p>
+<!-- <p>
 <a href="https://github.com/Web-Dev-Dan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Web-Dev-Dan&count_private=true&show_icons=true&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=325288&icon_color=ffffff" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Web-Dev-Dan&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=ffffff&icon_color=ffffff&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
-
+ -->
 <!--
 <p align="center">
 <a href="https://github.com/hellodeborahuk">
