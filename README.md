@@ -23,7 +23,7 @@
 
 ## 🛠 My Projects
 <br/>
-1. Neighbourhood security Application [@Dynasty Watch](https://)
+- 🐦 You can always find me on **LinkedIN**, [@Mopholosi Monyollo](https://www.linkedin.com/in/mopholosi-monyollo-b184001b2/)
 
 
 <!--  ## 📊 My GitHub Stats
