@@ -2,12 +2,12 @@
 
 ### 👋 About Me:
 
-- 👨‍💻 Im a Business I.T student.
+- 👨‍💻 I am a final year Business I.T student.
 - 📝 A good problem solver. 
-- 🤩 I designing **Software Architecture** using **UML**
-- 🤩 I develop cross platform web and moile applications using **HTML**, **CSS**, **Javascript** and **React JS**,  
-- 🌱 Currently learning API development using **Express JS**, **ASP.NET Core**
-- 👯 I’d be delighted to collabote with other software engineers
+- 🤩 I am a **Software Architect** specialising in **UML**.
+- 🤩 I also develop cross platform Web and Mobile applications using **React JS**, **React Native** and **Ionic**.
+- 🌱 I am currently learning API development using **ASP.NET Core** and **SQL**.
+- 👯 I’d be delighted to collabote with other software engineers.
 - 🐦 You can always find me on **LinkedIN**, [@Mopholosi Monyollo](https://www.linkedin.com/in/mopholosi-monyollo-b184001b2/)
 
 <br>
