@@ -1,4 +1,4 @@
-# Hi! I'm Mopholosi
+# Mopholosi Monyollo
 
 ### 👋 About Me:
 
